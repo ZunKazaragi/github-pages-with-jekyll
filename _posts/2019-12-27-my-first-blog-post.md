@@ -1,4 +1,4 @@
-## Hello, Im zun and i am single UwU
+Hello, Im zun and i am single UwU
 
 ---
 title: "Im so Cool"
